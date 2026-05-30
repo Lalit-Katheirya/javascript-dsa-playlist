@@ -1,7 +1,7 @@
 # 🚀 JavaScript DSA Playlist
 ## 📚 A complete Data Structures & Algorithms roadmap in JavaScript from Beginner to Advanced with theory, examples, complexity analysis, interview questions, and practice problems.
 <p align="center">
-  <img src="./assets/banner.png" width="100%" />
+  <img src="./asset/banner.png" width="100%" />
 </p>
 
 
