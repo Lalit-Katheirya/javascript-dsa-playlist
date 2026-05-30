@@ -1,22 +1,33 @@
 # 🚀 JavaScript DSA Playlist
-## 📚 > A complete Data Structures & Algorithms roadmap in JavaScript from Beginner to Advanced with theory, examples, complexity analysis, interview questions, and practice problems.
+## 📚 A complete Data Structures & Algorithms roadmap in JavaScript from Beginner to Advanced with theory, examples, complexity analysis, interview questions, and practice problems.
+<p align="center">
+  <img src="./assets/banner.png" width="100%" />
+</p>
 
-## 📚 Learn Core DSA Concepts With
-- 📖 Simple & Easy-to-Understand Definitions
-- 🧠 Fundamental Concepts from Beginner to Advanced
-- 💻 JavaScript Implementations & Code Examples
-- ⚡ Time & Space Complexity Analysis
-- 🔍 Step-by-Step Dry Run Explanations
-- 🎯 Common Interview Questions & Answers
-- 📝 Topic-Wise Practice Problems
-- 🚀 LeetCode, HackerRank & Coding Challenge Patterns
-- 🔄 Multiple Approaches (Brute Force → Optimized)
-- 🌳 Data Structures Visualizations & Use Cases
-- 📊 Algorithm Design Techniques
-- 🎓 Coding Interview Preparation Roadmap
-- ✅ Progress Tracking Checklists
-- 🔗 Topic-to-Topic Navigation
-- 🏆 Real-World Applications of DSA
+
+## 📚 What You'll Learn in This Repository
+
+<div align="center">
+
+| | Feature | Description |
+|--|---------|-------------|
+| 📖 | **Simple Definitions** | Easy-to-understand explanations for every concept |
+| 🧠 | **Beginner to Advanced** | Fundamental concepts built step by step |
+| 💻 | **JS Implementations** | Clean JavaScript ES6+ code for every topic |
+| ⚡ | **Complexity Analysis** | Time & Space Big-O breakdown per operation |
+| 🔍 | **Dry Run Explanations** | Step-by-step trace-through for key algorithms |
+| 🎯 | **Interview Q&A** | Common questions with clear answers per topic |
+| 📝 | **Practice Problems** | Topic-wise problems with hints and solutions |
+| 🚀 | **Platform Patterns** | LeetCode, HackerRank & competitive coding patterns |
+| 🔄 | **Multiple Approaches** | Brute Force → Optimized solutions side by side |
+| 🌳 | **Visualizations** | ASCII visualizations & real-world use cases |
+| 📊 | **Algorithm Design** | Greedy, Divide & Conquer, DP design techniques |
+| 🎓 | **Interview Roadmap** | 12-week structured preparation guide |
+| ✅ | **Progress Checklists** | Topic-wise completion tracking |
+| 🔗 | **Topic Navigation** | Cross-linked topics for connected learning |
+| 🏆 | **Real-World DSA** | How each structure is used in production systems |
+
+</div>
 
 
 # 🚀 JavaScript DSA — Complete Interview Mastery Guide
