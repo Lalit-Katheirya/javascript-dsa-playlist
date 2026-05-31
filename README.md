@@ -7,7 +7,6 @@
 
 ## 📚 What You'll Learn in This Repository
 
-<div align="center">
 
 | | Feature | Description |
 |--|---------|-------------|
@@ -27,7 +26,6 @@
 | 🔗 | **Topic Navigation** | Cross-linked topics for connected learning |
 | 🏆 | **Real-World DSA** | How each structure is used in production systems |
 
-</div>
 
 
 # 🚀 JavaScript DSA — Complete Interview Mastery Guide
